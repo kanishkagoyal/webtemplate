@@ -1,0 +1,22 @@
+#about-us {
+  padding: 20px;
+}
+#brand-box {
+  padding: 10px;
+}
+#brand {
+  width: 100%;
+  height: auto;
+  border: ridge 1px lightgray;
+  border-radius: 8px;
+}
+#brand:hover {
+  opacity: 0.8;
+}
+#intro-box {
+  padding: 10px;
+}
+#intro-heading {
+  text-align: center;
+  color: #000080;
+}

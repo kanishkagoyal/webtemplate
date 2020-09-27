@@ -1,0 +1,12 @@
+#carousel-wrapper:hover {
+  opacity: 0.9;
+}
+#carousel-wrapper {
+}
+#horizontal {
+  color: black;
+}
+#Intro {
+  text-align: center;
+  padding-top: 30px;
+}

@@ -1,0 +1,58 @@
+#top-box {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  overflow: visible;
+  z-index: 100;
+}
+#hotline {
+  font-size: 13px;
+  padding-top: 5px;
+}
+#icon-head {
+  border-top: solid 1px gray;
+  text-align: center;
+  border-bottom: solid 1px gray;
+  background-color: #0a0f0f;
+}
+#hotline:hover {
+  color: white;
+  opacity: 0.9;
+  text-decoration: none;
+}
+#icons {
+  border-left: solid 1px gray;
+  padding: 0px 10px 0px 10px;
+  font-size: 22px;
+}
+#icons:hover {
+  color: white;
+  opacity: 0.9;
+}
+#headline {
+  text-align: center;
+  border-bottom: solid 1px gray;
+  background-color: #0a0f0f;
+}
+#menu {
+  background-color: #0a0f0f;
+}
+.navbar-top-links {
+  color: white;
+}
+
+.navbar-top-links:hover {
+  color: aquamarine;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #0a0f0f;
+  color: white;
+  text-align: center;
+  height: 100px;
+  position: sticky;
+  width: 100%;
+  padding: 1rem;
+}

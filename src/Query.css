@@ -1,0 +1,36 @@
+#form-box {
+  padding: 20px;
+}
+
+#sub-form-box {
+  padding-top: 10px;
+  text-align: center;
+  color: #000080;
+}
+
+#actual-form {
+  padding: 10px;
+}
+
+.form-group {
+  padding: 5px;
+}
+
+.form-control {
+  border: solid 1px gray;
+}
+#button-submit {
+  border: solid 1px gray;
+  text-align: center;
+  background-color: lightblue;
+}
+#button-submit:hover {
+  border: ridge 3px gray;
+}
+#button-box {
+  text-align: center;
+}
+#question-photo {
+  padding: 10px;
+}
+/*  background-image: url(./image/background.png); */
